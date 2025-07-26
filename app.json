@@ -2,6 +2,18 @@
   "expo": {
     "name": "StackNavigation",
     "slug": "StackNavigation",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "c3eb8e00-9fc0-4a52-8d13-4817c0b89485"
+      }
+    },
+    "owner": "joelduranr",
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/c3eb8e00-9fc0-4a52-8d13-4817c0b89485"
+    },
+    "android": {},
+    "ios": {}
   }
 }
